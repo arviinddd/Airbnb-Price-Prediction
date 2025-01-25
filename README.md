@@ -79,10 +79,3 @@ This project aims to predict Airbnb rental prices using machine learning models.
 
 - **Frontend**:
   - Streamlit for the web interface
-
----
-
-## Installation Instructions
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/<your-repo-url>.git
